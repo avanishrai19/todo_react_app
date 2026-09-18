@@ -1,0 +1,8 @@
+.productTab{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 25px;
+  padding: 30px;
+  background-color: #f3f3f3;
+}
